@@ -2,7 +2,7 @@
 
 A sleek Pomodoro Timer built with React and SCSS, featuring customizable work/break intervals.
 
-## 🚀 [Live Demo](https://your-project-name.pages.dev)
+## 🚀 [Live Demo](https://pomodoro.g2k.media/)
 
 ## 📖 About This Project
 
