@@ -40,7 +40,9 @@ The Pomodoro Technique is a time management method that uses 25-minute focused w
 - npm or yarn
 
 ### Installation
-    git clone https://github.com/g2k19/pomodoro-timer.git
-    cd pomodoro-timer
-    npm install
-    npm run dev
+```bash
+git clone https://github.com/g2k19/pomodoro-timer.git
+cd pomodoro-timer
+npm install
+npm run dev
+```
